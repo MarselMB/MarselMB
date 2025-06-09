@@ -46,7 +46,7 @@
 
   ### :fire: My Stats :
   <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarselMB&show_icons=true&theme=dark&locale=en&layout=compact" alt="MarselMB" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=MarselMB&show_icons=true&theme=dark&locale=en" alt="MarselMB" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarselMB&show_icons=true&theme=dark&layout=compact" alt="MarselMB" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=MarselMB&show_icons=true&theme=dark" alt="MarselMB" /></p>
   </div>
   
