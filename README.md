@@ -22,7 +22,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Stack and technologies
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
